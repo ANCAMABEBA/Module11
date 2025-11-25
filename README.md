@@ -5,8 +5,8 @@ This project analyzes a dataset of ~426,000 used vehicles to understand **what f
 The work follows the **CRISP-DM** methodology and demonstrates the use of **multiple regression models** including both linear and advanced ensemble approaches.
 
 The analysis is structured into two Jupyter Notebooks:
-1. **Data Preparation & Exploratory Analysis Notebook**: https://github.com/ANCAMABEBA/Module11/blob/main/VehiclesPricesDataPrep.ipynb
-2. **[Modeling & Machine Learning Notebook]**(https://github.com/ANCAMABEBA/Module11/blob/main/VehiclesPricesModeling.ipynb)
+1. **Data Preparation & Exploratory Analysis Notebook:** https://github.com/ANCAMABEBA/Module11/blob/main/VehiclesPricesDataPrep.ipynb
+2. **Modeling & Machine Learning Notebook:** https://github.com/ANCAMABEBA/Module11/blob/main/VehiclesPricesModeling.ipynb
 
 ---
 
