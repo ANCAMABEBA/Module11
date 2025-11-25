@@ -45,6 +45,7 @@ Models performance were evaluated using these performance metrics:
 
 
 ### What Drives Car Prices?
+---
 ### Most Influential Drivers of Price
 
 - **Year**  
