@@ -44,7 +44,7 @@ Models performance were evaluated using these performance metrics:
   - **R²** tells us what proportion of the variation in car prices is explained by the model, helping us to understand the model's overall explanatory power and how well it captures underlying drivers of price.
 
 
-### What Drives Car Prices?
+## What Drives Car Prices?
 ---
 ### Most Influential Drivers of Price
 
