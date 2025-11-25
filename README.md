@@ -34,6 +34,7 @@ To support a used-car dealership in optimizing pricing and inventory decisions b
 | Sequential Feature Selection (15 features) | 12,402 | 0.339 | more interpretable, lower accuracy |
 | Ridge / Lasso | ~12,000 | ~0.36 | no major improvement |
 | **Random Forest Regressor** | **6,147** | **0.837** | **best predictive performance** |
+| Random Forest Hyper Parameter Fine Tunes | ~12,000 | ~0.36 | no major improvement |
 | **XGBoost Regressor** | **6,895** | **0.795** | strong, but below RF |
 
 ---
