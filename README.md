@@ -18,7 +18,8 @@ In this application, we will explore a dataset from Kaggle. The original dataset
 ## Business Goal
 To support a used-car dealership in optimizing pricing and inventory decisions by identifying:
 - The **main drivers of vehicle price**
-- **Feature combinations** that increase resale value
+- **Features** that increase resale value
+- **Features** that decrease resale value
 - Clear, actionable **business insights and recommendations**
 
 ---
