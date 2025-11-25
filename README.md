@@ -19,7 +19,6 @@ In this application, we will explore a dataset from Kaggle. The original dataset
 To support a used-car dealership in optimizing pricing and inventory decisions by identifying:
 - The **main drivers of vehicle price**
 - **Feature combinations** that increase resale value
-- **Predictive modeling capability** to estimate price accurately
 - Clear, actionable **business insights and recommendations**
 
 ---
