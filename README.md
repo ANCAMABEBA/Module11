@@ -6,7 +6,8 @@ The work follows the **CRISP-DM** methodology and demonstrates the use of **mult
 
 The analysis is structured into two Jupyter Notebooks:
 1. **Data Preparation & Exploratory Analysis Notebook**: https://github.com/ANCAMABEBA/Module11/blob/main/VehiclesPricesDataPrep.ipynb
-2. **Modeling & Machine Learning Notebook**:             https://github.com/ANCAMABEBA/Module11/blob/main/VehiclesPricesModeling.ipynb
+2. **Modeling & Machine Learning Notebook**:
+   https://github.com/ANCAMABEBA/Module11/blob/main/VehiclesPricesModeling.ipynb
 
 ---
 
