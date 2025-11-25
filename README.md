@@ -11,7 +11,7 @@ The analysis is structured into two Jupyter Notebooks:
 --
 
 ## Data 
-In this application, we will explore a dataset from Kaggle. The original dataset contained information on 3 million used cars. The provided dataset contains information on 426K cars to ensure the speed of processingthis is all lowercase text in a github readme. https://github.com/ANCAMABEBA/Module11/blob/main/Data/practical_application_II_starter.zip
+In this application, we will explore a dataset from Kaggle. The original dataset contained information on 3 million used cars. The provided dataset contains information on 426K cars to ensure the speed of processing. https://github.com/ANCAMABEBA/Module11/blob/main/Data/practical_application_II_starter.zip
 
 ---
 
