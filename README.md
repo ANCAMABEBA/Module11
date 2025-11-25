@@ -8,7 +8,7 @@ The analysis is structured into two Jupyter Notebooks:
 1. **Data Preparation & Exploratory Analysis Notebook**: https://github.com/ANCAMABEBA/Module11/blob/main/VehiclesPricesDataPrep.ipynb
 2. **Modeling & Machine Learning Notebook** 
 
---
+---
 
 ## Data 
 In this application, we will explore a dataset from Kaggle. The original dataset contained information on 3 million used cars. The provided dataset contains information on 426K cars to ensure the speed of processing. https://github.com/ANCAMABEBA/Module11/blob/main/Data/practical_application_II_starter.zip
