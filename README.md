@@ -16,6 +16,7 @@ In this application, we will explore a dataset from Kaggle. The original dataset
 ---
 
 ## Business Goal
+Important to keep in mind that goal is provide insoghts in pricing drivers rather than an accurate predictive model, this influenced our modeling decisions to prioritize interpretability.
 To support a used-car dealership in optimizing pricing and inventory decisions by identifying:
 - The **main drivers of vehicle price**
   - **Features** that increase resale value
@@ -34,6 +35,14 @@ To support a used-car dealership in optimizing pricing and inventory decisions b
 | Ridge / Lasso | ~12,000 | ~0.36 | no major improvement |
 | **Random Forest Regressor** | **6,337** | **0.827** | best predictive performance |
 | **XGBoost Regressor** | **7,221** | **0.776** | strong, but below RF |
+
+---
+
+## Model Scoring Criteria
+Models performance were evaluated using these performance metrics:
+  - RMSE measures the average size of prediction errors in the same units as the target variable (car prices), making it easy to interpret how far off our model is from real car prices and usefule for judging practical business value.
+  - R² tells us what proportion of the variation in car prices is explained by the model, helping us to understand the model's overall explanatory power and how well it captures underlying drivers of price.
+
 
 ### What Drives Car Prices?
 Top predictors identified:
