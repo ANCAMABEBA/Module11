@@ -8,6 +8,8 @@ The analysis is structured into two Jupyter Notebooks:
 1. **Data Preparation & Exploratory Analysis Notebook**: https://github.com/ANCAMABEBA/Module11/blob/main/VehiclesPricesDataPrep.ipynb
 2. **Modeling & Machine Learning Notebook** 
 
+## Data 
+Link to data: [Data](https://github.com/ANCAMABEBA/Module11/tree/03b3b1d52b9f4c9bc3342086fe287e5529786109/Data)
 ---
 
 ## Business Goal
