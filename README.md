@@ -1,4 +1,4 @@
-# Used Car Price Prediction & Insights Project
+# Used Car Price Drivers Project
 
 ## Project Overview
 This project analyzes a dataset of ~426,000 used vehicles to understand **what factors most influence used car prices** and to build **predictive machine learning models** capable of estimating sale price.  
