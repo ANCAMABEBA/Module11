@@ -33,8 +33,8 @@ To support a used-car dealership in optimizing pricing and inventory decisions b
 | Baseline Linear Regression | 12,127 | 0.368 | weak explanatory power |
 | Sequential Feature Selection (15 features) | 12,402 | 0.339 | more interpretable, lower accuracy |
 | Ridge / Lasso | ~12,000 | ~0.36 | no major improvement |
-| **Random Forest Regressor** | **6,337** | **0.827** | best predictive performance |
-| **XGBoost Regressor** | **7,221** | **0.776** | strong, but below RF |
+| **Random Forest Regressor** | **6,147** | **0.837** | best predictive performance |
+| **XGBoost Regressor** | **6,895** | **0.795** | strong, but below RF |
 
 ---
 
