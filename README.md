@@ -45,15 +45,6 @@ Models performance were evaluated using these performance metrics:
 
 
 ### What Drives Car Prices?
-Top predictors identified:
-- **Vehicle Year** — newer models significantly increase price
-- **Mileage (Odometer)** — strong negative impact
-- **Vehicle Type** — pickups, trucks, and performance cars retain value
-- **Fuel Type** — diesel vehicles have higher price contribution
-- **Title Status & Condition** — clean titles and high condition matter
-- **Region** — pricing varies significantly across U.S. regions
-
-### Business Insights and Recommendations
 ### Most Influential Drivers of Price
 
 - **Year**  
