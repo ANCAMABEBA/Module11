@@ -30,9 +30,9 @@ To support a used-car dealership in optimizing pricing and inventory decisions b
 ### Predictive Model Performance Summary
 | Model | RMSE ↓ | R² ↑ | Notes |
 |--------|-----------|-----------|-----------|
-| Baseline Linear Regression | 12,127 | 0.368 | weak explanatory power |
-| Sequential Feature Selection (15 features) | 12,402 | 0.339 | more interpretable, lower accuracy |
-| Ridge / Lasso | ~12,000 | ~0.36 | no major improvement |
+| Baseline Linear Regression | 12,035 | 0.377 | weak explanatory power |
+| Sequential Feature Selection (15 features) | 12,339 | 0.345 | more interpretable, lower accuracy |
+| Ridge / Lasso | ~12,000 | ~0.37 | no major improvement |
 | **Random Forest Regressor** | **6,147** | **0.837** | **best predictive performance** |
 | Random Forest (Grid search hyperparameters) | ~12,000 | ~0.36 | no improvement |
 | **XGBoost Regressor** | **6,895** | **0.795** | strong, but below RF |
