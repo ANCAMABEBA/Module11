@@ -125,5 +125,5 @@ Based on the results of the used car price modeling and exploratory data analysi
 
 ---
 
-The current results show that **Random Forest substantially outperforms linear models**, confirming that used car prices depend on **non-linear relationships and complex feature interactions**. By enriching features, tuning hyperparameters more efficiently, and exploring advanced models such as XGBoost and LightGBM, there is strong potential to further improve predictive accuracy and build a production-grade price recommendation system.
+The current results show that **Random Forest substantially outperforms linear models**, confirming that used car prices depend on **non-linear relationships and complex feature interactions**. By enriching features, tuning hyperparameters more efficiently, and exploring advanced models such as LightGBM and CatBoost, there is strong potential to further improve predictive accuracy and build a production-grade price recommendation system.
 
