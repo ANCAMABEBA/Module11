@@ -94,4 +94,37 @@ For a used-car dealership, this analysis suggests:
 - Focus pricing and acquisition strategy around **year + mileage + segment + drivetrain + condition**, as these are the variables the model consistently identifies as most predictive of price.
 ---
 
-## 📁 Repository Structure
+## Next Steps & Recommendations
+
+Based on the results of the used car price modeling and exploratory data analysis, the following actions are recommended to improve model accuracy, robustness, and practical usability:
+
+### Model Enhancement & Optimization
+- Experiment with further **hyperparamter fine** tuning of the random forest model.
+- Evaluate additional ensemble models such as **LightGBM**, and **CatBoost**, which are well-suited for tabular data and non-linear relationships.
+- Explore **stacking or blending** multiple models to further boost performance.
+  
+### Feature Engineering
+- Engineer additional features such as:
+  - **Car age** (`current_year - year`)
+  - **Price per mile** (`price / odometer`)
+  - More granular **geographical segmentation**
+  - Explore ideas to capture the signal from the **model feature**, not captured in the current model, as there are clearly models that preserve their value better than others.
+  
+### Data Improvements
+- Expand dataset size for underrepresented vehicle types and regions.
+- Perform **data imputation improvements**, especially around missing engine and condition values.
+
+### Evaluation & Validation
+- Compare model performance over **different segments** (truck vs sedan, diesel vs gas, different brands, regions, etc.).
+- Perform **residual analysis** to identify systematic prediction errors.
+
+### Deployment Considerations
+- Build a **price prediction app** that dealers can start using alowing agents feedback.
+- Integrate this model via API with their inventory systems to trigger alarms for cars losing value for rapidly to allow for special sales campaings.
+- Add model monitoring to track performance drift and data quality changes.
+
+---
+
+### Strategic Summary
+The current results show that **Random Forest substantially outperforms linear models**, confirming that used car prices depend on **non-linear relationships and complex feature interactions**. By enriching features, tuning hyperparameters more efficiently, and exploring advanced models such as XGBoost and LightGBM, there is strong potential to further improve predictive accuracy and build a production-grade price recommendation system.
+
